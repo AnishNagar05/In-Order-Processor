@@ -1,0 +1,18 @@
+    {
+    "valid[0]"     : "dut.u_wb.monitor_valid",
+    "order[0]"     : "dut.u_wb.mem_wb_r.order",
+    "inst[0]"      : "dut.u_wb.mem_wb_r.inst",
+    "rs1_addr[0]"  : "dut.u_wb.mem_wb_r.rs1_addr",
+    "rs2_addr[0]"  : "dut.u_wb.mem_wb_r.rs2_addr",
+    "rs1_rdata[0]" : "dut.u_wb.mem_wb_r.rs1_rdata",
+    "rs2_rdata[0]" : "dut.u_wb.mem_wb_r.rs2_rdata",
+    "rd_addr[0]"   : "dut.u_wb.mem_wb_r.rd_addr",
+    "rd_wdata[0]"  : "dut.u_wb.mem_wb_r.rd_wdata",
+    "pc_rdata[0]"  : "dut.u_wb.mem_wb_r.pc_rdata",
+    "pc_wdata[0]"  : "dut.u_wb.mem_wb_r.pc_wdata",
+    "mem_addr[0]"  : "dut.u_wb.mem_wb_r.mem_addr",
+    "mem_rmask[0]" : "dut.u_wb.mem_wb_r.mem_rmask",
+    "mem_wmask[0]" : "dut.u_wb.mem_wb_r.mem_wmask",
+    "mem_rdata[0]" : "dut.u_wb.mem_wb_r.mem_rdata",
+    "mem_wdata[0]" : "dut.u_wb.mem_wb_r.mem_wdata"
+}
